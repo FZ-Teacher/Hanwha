@@ -1,0 +1,7 @@
+https://www.kaggle.com/co1d7era/mixedtype-wafer-defect-datasets/code
+https://www.kaggle.com/ravirajsinh45/real-life-industrial-dataset-of-casting-product
+https://www.kaggle.com/c/bosch-production-line-performance/data
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+https://gallery.azure.ai/industries/manufacturing
+https://gallery.azure.ai/industries/retail
